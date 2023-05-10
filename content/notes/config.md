@@ -12,7 +12,7 @@ The majority of configuration can be found under `data/config.yaml`. An annotate
 
 ```yaml {title="data/config.yaml"}
 # The name to display in the footer
-name: Jacky Zhao
+name: Dae Williams
 
 # whether to globally show the table of contents on each page
 # this can be turned off on a per-page basis by adding this to the
@@ -75,7 +75,7 @@ description:
 
 # title of the home page (also for SEO)
 page_title:
-  "🪴 Quartz 3.3"
+  "🪴 Read Me"
 
 # links to show in the footer
 links:
